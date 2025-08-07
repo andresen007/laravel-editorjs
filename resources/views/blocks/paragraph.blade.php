@@ -1,1 +1,3 @@
-<p>{{ $data['text'] }}</p>
+<p>
+    {{ $data['text'] }}
+</p>
